@@ -24,3 +24,12 @@ Aulas:
 - Mapeando la página oficial de Screenmatch
 - Agregando más detalles a Screenmatch
 - Consolidando los conocimientos
+
+  ![Capturatodo](https://github.com/nandojmj/Alura_Screenmatch_SpringBoot_P3/assets/156966097/8c7a6a90-cc7e-4768-88f6-1b5f6740e056)
+
+![Capturaseries](https://github.com/nandojmj/Alura_Screenmatch_SpringBoot_P3/assets/156966097/07624976-e5dc-489d-b129-45a37f97c1c7)
+
+
+![postgres series](https://github.com/nandojmj/Alura_Screenmatch_SpringBoot_P3/assets/156966097/df074619-31d5-4c84-ab79-31307583efe2)
+
+
